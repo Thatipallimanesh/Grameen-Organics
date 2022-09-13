@@ -14,6 +14,6 @@ Team Name: Hack Frenzy
 1. Sarthak Penta
 2. Thatipalli Manesh
 3. Yuva Kishore Koneru
-4. Chakradhar Mocharla
+4. Garlapati Tarun
 # Made at:
 ![Built-At-Hack36](https://user-images.githubusercontent.com/81161403/164953240-cdcc9b23-2ad0-4525-8cbc-23bf500f6c36.png)
